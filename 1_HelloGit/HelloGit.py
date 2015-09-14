@@ -14,7 +14,8 @@
 #An Informal Introduction to Python
 #The Python Software Foundation
 #https://docs.python.org/2/tutorial/introduction.html
-
+#100 numpy exercises
+#https://github.com/rougier/numpy-100
 
 #------------------------------------------------------#
 
