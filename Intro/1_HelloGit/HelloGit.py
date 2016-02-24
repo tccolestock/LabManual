@@ -20,15 +20,15 @@
 #------------------------------------------------------#
 
 print "Hello World!"
-# This is a change
 # this is the first comment
 spam = 1  # and this is the second comment
   # ... and now a third!
 text = "# This is not a comment because it's inside quotes."
 
 #------------------------------------------------------#
+#First things first, let's get you familiar with making equations using numbers:
 
-print 2 + 2
+print 2 + 2 #it equals 4 if your brain is truly struggling
 print 50 - 5*6
 print (50 - 5.0*6) / 4
 print 8 / 5.0
