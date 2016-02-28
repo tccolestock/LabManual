@@ -35,7 +35,7 @@ print 8 / 5.0
 print 17 / 3  # int / int -> int
 print 17 / 3.0  # int / float -> float
 print 17 // 3.0  # explicit floor division discards the fractional part
-print 17 % 3  # the % operator returns the remainder of the division
+print 17 % 3  # the % operator (Modulo Operation, or modulus) returns the remainder of the division
 print 5 * 3 + 2  # result * divisor + remainder
 print 5 ** 2  # 5 squared
 print 2 ** 7  # 2 to the power of 7
